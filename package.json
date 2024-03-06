@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alikahwaji/JS-Playground/issues"
   },
-  "homepage": "https://github.com/alikahwaji/JS-Playground#readme"
+  "homepage": "https://github.com/alikahwaji/JS-Playground#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
